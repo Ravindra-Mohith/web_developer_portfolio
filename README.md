@@ -8,3 +8,6 @@
 - clone this repository
 - run `npm install --legacy-peer-deps` on command line
 - then run `npm run dev` to compile and see manually
+
+
+## Click [here](https://elaborate-donut-a85f8f.netlify.app) to see live web.
